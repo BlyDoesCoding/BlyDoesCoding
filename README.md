@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I'm Lia, an 18-year-old coder based in Germany. My coding journey revolves around Java and Go, specializing in crafting desktop and Android apps. Currently, I'm a student at FOS (Fachoberschule), where I'm enthusiastically tinkering with tech to push the boundaries of software development. Let's connect and code the future together!
-
+👋 Hey there, I'm Lia, an 18 and based in Germany. 
 
 # 📫 Media:
 - [Blog](https://blydoescoding.github.io/ComfyTechCorner/)
