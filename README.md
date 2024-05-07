@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I'm Lia, 18 and based in Germany. 
+👋 Hey there, I'm Lia, 19 and based in Germany. 
 
 # 📫 Media:
 - [Blog](https://comfytechcorner.de)
