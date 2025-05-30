@@ -2,7 +2,7 @@
 👋 Hey there, I'm Lia, 20 and based in Germany. 
 
 
-# Recent Blog posts
+### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Steam Deck Modding](https://comfytechcorner.de/p/steamdeck-modding/)
 - [The impact of cryptocurrency on our environment](https://comfytechcorner.de/p/crypto/)
