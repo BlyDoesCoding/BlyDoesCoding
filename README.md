@@ -11,5 +11,8 @@
 - [Accessing Knowledge Offline](https://comfytechcorner.de/p/offline-wikipedia/)
 <!-- BLOG-POST-LIST:END -->
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blydoescoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
+</div>
+
+###
