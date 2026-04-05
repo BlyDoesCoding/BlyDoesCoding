@@ -1,2 +1,2 @@
 # 💫 About Me:
-👋 Hey there, I'm Lia based in Germany. 
+👋 Hey there, I'm Lia and based in Germany. 
