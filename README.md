@@ -1,2 +1,2 @@
 # 💫 About Me:
-👋 Hey there, I'm Lia, 20 and based in Germany. 
+👋 Hey there, I'm Lia based in Germany. 
